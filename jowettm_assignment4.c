@@ -1,5 +1,5 @@
-/*  Assignment 4: SMALLSH
- *  Mallory Jowett
+/*  Small Shell Assignment
+ *  Operating Systems course
  *  Main program
  *  Uses code adapted from sample_parser.c on Assignment page and Canvas explorations
 */

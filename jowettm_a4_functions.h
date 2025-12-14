@@ -1,5 +1,5 @@
-/*  Assignment 4: SMALLSH
- *  Mallory Jowett
+/*  Small Shell Assignment
+ *  Operating Systems course
  *  Function headers needed for main program
  */
 

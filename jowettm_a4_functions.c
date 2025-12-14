@@ -1,5 +1,5 @@
-/*  Assignment 4: SMALLSH
- *  Mallory Jowett
+/*  Small Shell Assignment
+ *  Operating Systems course
  *  Complete definitions of functions
  *  Uses code adapted from sample_parser.c on Assignment page, Canvas explorations, and The Linux Programming Interface
  */
